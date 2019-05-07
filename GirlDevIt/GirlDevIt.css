@@ -1,0 +1,28 @@
+/* 
+* Tatiana Mendez
+* May 7, 2019
+* An Information Page on Girl Develop It
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+
+body { background-color: #ffcccc; } /* body background color here */
+
+h1 { font-family: "Apple Chancery", cursive; text-decoration: underline; } /* text formats for h1 */
+
+main { font-family: "Arial", sans-serif; } /*font family for the main*/
+
+h2 { font-family: "Apple Chancery", cursive; text-decoration: underline; } /* text formats for h2 */
+
+header { background-color: #ff6b6b; text-align: center; } /*background color for the header*/
+    
+a:hover, a:focus { color: #ff00ff; font-size: 150%; }  /*link tag that changes the font size and color when it is hovered or "tabbed" over*/
+
+#GirlDevItLogo { clear: both; height: 150px; width: 600px; } /*properties for the GDI logo*/
+
+figure { float: right; } /*properties for the figures*/
